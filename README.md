@@ -1,4 +1,4 @@
-# Olá! Eu sou o Vinícius Arado e seja bem-vindo(a) ao meu perfil! 👋🏻
+# Olá! Eu sou o Vinícius Arado e seja bem-vindo(a) ao meu perfil 👋🏻
 
 <br>
 
