@@ -7,7 +7,8 @@ Sou um estudante de **Engenharia de Software** na UMC e atualmente trabalho na *
 ### 🛠️ Tecnologias e Ferramentas  
 💻 **Linguagens:** C#, Python, Java, JavaScript  
 🛠️ **Ferramentas & Frameworks:** Git, Tailwind CSS, React, MySQL 
-🎯 **Interesses:** Desenvolvimento de Software – Backend, Frontend e Fullstack  
+🎯 **Interesses:** Desenvolvimento de Software – Backend, Frontend e Fullstack 
+💻 **Linguagens:** Python, Java, C#, JavaScript 
 
 ---
 
