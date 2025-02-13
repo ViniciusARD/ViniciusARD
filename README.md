@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu perfil 👋🏻  
 
-Sou um estudante de **Engenharia de Software** na UMC e atualmente trabalho na **Prefeitura de Guararema**. Tenho interesse em desenvolvimento de software, inteligência artificial e boas práticas de programação.  
+Sou estudante de Engenharia de Software na UMC, interessado em desenvolvimento de software, inteligência artificial e boas práticas de programação. Busco sempre aprimorar minhas habilidades por meio de projetos, estudos e novas tecnologias.
 
 ---
 
