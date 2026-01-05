@@ -12,7 +12,6 @@ Sou estudante de Engenharia de Software na UMC, interessado em desenvolvimento d
 ---
 
 ### 📬 Como me encontrar  
-📧 E-mail: [viniarado2@gmail.com](mailto:viniarado2@gmail.com)  
 💼 LinkedIn: [Meu perfil](https://www.linkedin.com/in/vin%C3%ADcius-arado-788968289/)  
 
 ---
