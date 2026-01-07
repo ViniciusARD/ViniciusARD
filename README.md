@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu perfil 👋🏻  
 
-Sou estudante de Engenharia de Software na UMC, interessado em desenvolvimento de software, inteligência artificial e boas práticas de programação. Busco sempre aprimorar minhas habilidades por meio de projetos, estudos e novas tecnologias.
+Formado pela Universidade de Mogi das Cruzes (UMC), sou focado no desenvolvimento de soluções escaláveis e seguras. Atualmente estou aprofundando meus conhecimentos em arquitetura de software e engenharia de segurança.
 
 ---
 
