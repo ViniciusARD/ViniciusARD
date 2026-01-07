@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu perfil 👋🏻  
 
-Formado pela Universidade de Mogi das Cruzes (UMC), sou focado no desenvolvimento de soluções escaláveis e seguras. Atualmente estou aprofundando meus conhecimentos em arquitetura de software e engenharia de segurança.
+Formado pela Universidade de Mogi das Cruzes (UMC). Aqui você encontra meus projetos e estudos em desenvolvimento Backend.
 
 ---
 
