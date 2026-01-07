@@ -1,6 +1,6 @@
 # Olá! Seja bem-vindo(a) ao meu perfil 👋🏻  
 
-Formado pela Universidade de Mogi das Cruzes (UMC). Aqui você encontra meus projetos e estudos.
+Engenheiro de Software formado pela Universidade de Mogi das Cruzes (UMC). Aqui você encontra meus projetos e estudos.
 
 ---
 
